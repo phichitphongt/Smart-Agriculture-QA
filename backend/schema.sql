@@ -1,0 +1,1 @@
+-- Database Schema for Smart Agriculture QA

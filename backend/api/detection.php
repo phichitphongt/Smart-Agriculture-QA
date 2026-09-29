@@ -1,0 +1,2 @@
+<?php
+// Detection API endpoint
